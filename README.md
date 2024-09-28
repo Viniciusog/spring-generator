@@ -128,9 +128,9 @@ Algumas sugestões que não foram desenvolvidas no projeto atual incluem:
 
 Esses pontos podem ser implementados em implementações futuras para tornar o projeto mais robusto e flexível.
 
-## Colaboradores
+## Criadores
 
-- Vitor Kasai Tanoue, Ciências da Computação - UFSCar, RA: 801904
-- Vinícius Guimarães, Ciências da Computação - UFSCar, RA: 802431
-- Karen Ketlyn Barcelos, Ciências da Computação - UFSCar, RA: 799657
+- Vitor Kasai Tanoue, Ciências da Computação - UFSCar
+- Vinícius Guimarães, Ciências da Computação - UFSCar
+- Karen Ketlyn Barcelos, Ciências da Computação - UFSCar
 
